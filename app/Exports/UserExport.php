@@ -11,6 +11,5 @@ class UserExport implements FromCollection
      */
     public function collection(): \Illuminate\Support\Collection
     {
-        //
     }
 }
